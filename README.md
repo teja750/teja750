@@ -1,4 +1,4 @@
-![Profile Banner](img width="1584" height="396" alt="Beige Simple Elegant Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/b38bb21d-d365-4d2d-b12d-db3a612becc3" />)
+![Profile Banner](https://github.com/teja750/teja750/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Teja Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
